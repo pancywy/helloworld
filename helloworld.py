@@ -1,5 +1,4 @@
-etgprintsas
-
-
-xdc
+print "pancy"
+print "taste"
+print "good"
 
